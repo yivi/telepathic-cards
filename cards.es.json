@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 1,
+    "textLeft": "Abrazable",
+    "textRight": "No abrazable",
+    "set": "original"
+  },
+  {
+    "id": 2,
+    "textLeft": "Aburrido",
+    "textRight": "Emocionante",
+    "set": "original"
+  },
+  {
+    "id": 3,
+    "textLeft": "Actividad impopular",
+    "textRight": "Actividad popular",
+    "set": "original"
+  },
+  {
+    "id": 4,
+    "textLeft": "Actividad mental",
+    "textRight": "Actividad f\u00edsica",
+    "set": "original"
+  },
+  {
+    "id": 5,
+    "textLeft": "Actor subestimado",
+    "textRight": "Actor sobrevalorado",
+    "set": "original"
+  },
+  {
+    "id": 6,
+    "textLeft": "Aderezo de pizza malo",
+    "textRight": "Buena cobertura de pizza",
+    "set": "original"
+  },
+  {
+    "id": 7,
+    "textLeft": "Algo normal para poseer",
+    "textRight": "Algo extra\u00f1o para poseer",
+    "set": "original"
+  },
+  {
+    "id": 8,
+    "textLeft": "Algo subestimado para hacer",
+    "textRight": "Algo sobrevalorado para hacer",
+    "set": "original"
+  },
+  {
+    "id": 9,
+    "textLeft": "Algo subestimado para poseer",
+    "textRight": "Algo sobrevalorado para poseer",
+    "set": "original"
+  },
+  {
+    "id": 10,
+    "textLeft": "Amado",
+    "textRight": "Odiado",
+    "set": "original"
+  },
+  {
+    "id": 11,
+    "textLeft": "Amigo",
+    "textRight": "Enemigo",
+    "set": "original"
+  },
+  {
+    "id": 12,
+    "textLeft": "Animal aterrador",
+    "textRight": "Animal bonito",
+    "set": "original"
+  },
+  {
+    "id": 13,
+    "textLeft": "Animal poco atractivo",
+    "textRight": "Animal sexy",
+    "set": "original"
+  },
+  {
+    "id": 14,
+    "textLeft": "Animal redondo",
+    "textRight": "Animal puntiagudo",
+    "set": "original"
+  },
+  {
+    "id": 15,
+    "textLeft": "Anticuado",
+    "textRight": "Vanguardia",
+    "set": "original"
+  },
+  {
+    "id": 16,
+    "textLeft": "Antihigi\u00e9nico",
+    "textRight": "Higi\u00e9nico",
+    "set": "original"
+  },
+  {
+    "id": 17,
+    "textLeft": "Antinatural",
+    "textRight": "Natural",
+    "set": "original"
+  },
+  {
+    "id": 18,
+    "textLeft": "Apestoso",
+    "textRight": "Fragante",
+    "set": "original"
+  },
+  {
+    "id": 19,
+    "textLeft": "Arma subestimada",
+    "textRight": "Arma sobrevalorada",
+    "set": "original"
+  },
+  {
+    "id": 20,
+    "textLeft": "Arriba",
+    "textRight": "Abajo",
+    "set": "original"
+  },
+  {
+    "id": 21,
+    "textLeft": "Arte",
+    "textRight": "Comercio",
+    "set": "original"
+  },
+  {
+    "id": 22,
+    "textLeft": "Artesanal",
+    "textRight": "Producido en masa",
+    "set": "original"
+  },
+  {
+    "id": 23,
+    "textLeft": "Asunto f\u00e1cil",
+    "textRight": "Tema dif\u00edcil",
+    "set": "original"
+  },
+  {
+    "id": 24,
+    "textLeft": "Azul",
+    "textRight": "Verde",
+    "set": "original"
+  },
+  {
+    "id": 25,
+    "textLeft": "Baja calidad",
+    "textRight": "Alta calidad",
+    "set": "original"
+  },
+  {
+    "id": 26,
+    "textLeft": "Baja calidad",
+    "textRight": "De buen tono",
+    "set": "original"
+  },
+  {
+    "id": 27,
+    "textLeft": "Bajo en calor\u00edas",
+    "textRight": "Alta en calor\u00edas",
+    "set": "original"
+  },
+  {
+    "id": 28,
+    "textLeft": "Barato",
+    "textRight": "Caro",
+    "set": "original"
+  },
+  {
+    "id": 29,
+    "textLeft": "Bocadillo",
+    "textRight": "Comida",
+    "set": "original"
+  },
+  {
+    "id": 30,
+    "textLeft": "B\u00e1sico",
+    "textRight": "Hipster",
+    "set": "original"
+  },
+  {
+    "id": 31,
+    "textLeft": "Caliente",
+    "textRight": "Fr\u00edo",
+    "set": "original"
+  },
+  {
+    "id": 32,
+    "textLeft": "Canci\u00f3n triste",
+    "textRight": "Canci\u00f3n alegre",
+    "set": "original"
+  },
+  {
+    "id": 33,
+    "textLeft": "Cansado",
+    "textRight": "Cableado",
+    "set": "original"
+  },
+  {
+    "id": 34,
+    "textLeft": "Casual",
+    "textRight": "Formal",
+    "set": "original"
+  },
+  {
+    "id": 35,
+    "textLeft": "Cereal repugnante",
+    "textRight": "Cereal delicioso",
+    "set": "original"
+  },
+  {
+    "id": 36,
+    "textLeft": "Charla",
+    "textRight": "Tema pesado",
+    "set": "original"
+  },
+  {
+    "id": 37,
+    "textLeft": "Chisme",
+    "textRight": "Noticias",
+    "set": "original"
+  },
+  {
+    "id": 38,
+    "textLeft": "Cierto",
+    "textRight": "Falso",
+    "set": "original"
+  },
+  {
+    "id": 39,
+    "textLeft": "Cojear",
+    "textRight": "Firma",
+    "set": "original"
+  },
+  {
+    "id": 40,
+    "textLeft": "Color poco atractivo",
+    "textRight": "Color sexy",
+    "set": "original"
+  },
+  {
+    "id": 41,
+    "textLeft": "Comedia",
+    "textRight": "Drama",
+    "set": "original"
+  },
+  {
+    "id": 42,
+    "textLeft": "Comida seca",
+    "textRight": "Comida h\u00fameda",
+    "set": "original"
+  },
+  {
+    "id": 43,
+    "textLeft": "Corto",
+    "textRight": "Largo",
+    "set": "original"
+  },
+  {
+    "id": 44,
+    "textLeft": "Cuadrado",
+    "textRight": "Redondo",
+    "set": "original"
+  },
+  {
+    "id": 45,
+    "textLeft": "Culturalmente significativo",
+    "textRight": "Culturalmente insignificante",
+    "set": "original"
+  },
+  {
+    "id": 46,
+    "textLeft": "Da miedo",
+    "textRight": " Da risa",
+    "set": "original"
+  },
+  {
+    "id": 47,
+    "textLeft": "De corta duraci\u00f3n",
+    "textRight": "Larga vida",
+    "set": "original"
+  },
+  {
+    "id": 48,
+    "textLeft": "De poca cultura",
+    "textRight": "Intelectual",
+    "set": "original"
+  },
+  {
+    "id": 49,
+    "textLeft": "Demasiado peque\u00f1a",
+    "textRight": "Demasiado grande",
+    "set": "original"
+  },
+  {
+    "id": 50,
+    "textLeft": "Deporte",
+    "textRight": "Juego",
+    "set": "original"
+  },
+  {
+    "id": 51,
+    "textLeft": "Derivado",
+    "textRight": "Original",
+    "set": "original"
+  },
+  {
+    "id": 52,
+    "textLeft": "Desconocido",
+    "textRight": "Famoso",
+    "set": "original"
+  },
+  {
+    "id": 53,
+    "textLeft": "Dictadura",
+    "textRight": "Democracia",
+    "set": "original"
+  },
+  {
+    "id": 54,
+    "textLeft": "Dif\u00edcil de encontrar",
+    "textRight": "F\u00e1cil de encontrar",
+    "set": "original"
+  },
+  {
+    "id": 55,
+    "textLeft": "Dif\u00edcil de pronunciar",
+    "textRight": "F\u00e1cil de pronunciar",
+    "set": "original"
+  },
+  {
+    "id": 56,
+    "textLeft": "Dif\u00edcil de recordar",
+    "textRight": "F\u00e1cil de recordar",
+    "set": "original"
+  },
+  {
+    "id": 57,
+    "textLeft": "Dif\u00edcil de sentarse",
+    "textRight": "F\u00e1cil de sentarse",
+    "set": "original"
+  },
+  {
+    "id": 58,
+    "textLeft": "Dif\u00edcil de usar",
+    "textRight": "F\u00e1cil de usar",
+    "set": "original"
+  },
+  {
+    "id": 59,
+    "textLeft": "Dios menos poderoso",
+    "textRight": "Dios mas poderoso",
+    "set": "original"
+  },
+  {
+    "id": 60,
+    "textLeft": "Distop\u00eda",
+    "textRight": "utop\u00eda",
+    "set": "original"
+  },
+  {
+    "id": 61,
+    "textLeft": "Dividido",
+    "textRight": "Todo",
+    "set": "original"
+  },
+  {
+    "id": 62,
+    "textLeft": "D\u00e9bil",
+    "textRight": "Fuerte",
+    "set": "original"
+  },
+  {
+    "id": 63,
+    "textLeft": "Doloroso",
+    "textRight": "Indoloro",
+    "set": "original"
+  },
+  {
+    "id": 64,
+    "textLeft": "El lado luminoso de la fuerza",
+    "textRight": "El lado oscuro de la fuerza",
+    "set": "original"
+  },
+  {
+    "id": 65,
+    "textLeft": "El libro fue mejor",
+    "textRight": "La pel\u00edcula fue mejor",
+    "set": "original"
+  },
+  {
+    "id": 66,
+    "textLeft": "El peor atleta de todos los tiempos",
+    "textRight": "El mejor atleta de todos los tiempos",
+    "set": "original"
+  },
+  {
+    "id": 67,
+    "textLeft": "Emocionante",
+    "textRight": "Terror\u00edfico",
+    "set": "original"
+  },
+  {
+    "id": 68,
+    "textLeft": "Emoji poco atractivo",
+    "textRight": "Emoji sexy",
+    "set": "original"
+  },
+  {
+    "id": 69,
+    "textLeft": "Empresa menos malvada",
+    "textRight": "Empresa m\u00e1s malvada",
+    "set": "original"
+  },
+  {
+    "id": 70,
+    "textLeft": "Especie en peligro",
+    "textRight": "Especies superpobladas",
+    "set": "original"
+  },
+  {
+    "id": 71,
+    "textLeft": "Esperado",
+    "textRight": "Inesperado",
+    "set": "original"
+  },
+  {
+    "id": 72,
+    "textLeft": "Estacionario",
+    "textRight": "M\u00f3vil",
+    "set": "original"
+  },
+  {
+    "id": 73,
+    "textLeft": "Est\u00fapido",
+    "textRight": "Brillante",
+    "set": "original"
+  },
+  {
+    "id": 74,
+    "textLeft": "Evento casual",
+    "textRight": "Evento formal",
+    "set": "original"
+  },
+  {
+    "id": 75,
+    "textLeft": "Famoso",
+    "textRight": "Infame",
+    "set": "original"
+  },
+  {
+    "id": 76,
+    "textLeft": "Fantas\u00eda",
+    "textRight": "Ciencia ficci\u00f3n",
+    "set": "original"
+  },
+  {
+    "id": 77,
+    "textLeft": "Feo",
+    "textRight": "Hermosa",
+    "set": "original"
+  },
+  {
+    "id": 78,
+    "textLeft": "Fobia irrazonable",
+    "textRight": "Fobia razonable",
+    "set": "original"
+  },
+  {
+    "id": 79,
+    "textLeft": "Fracaso",
+    "textRight": "Obra maestra",
+    "set": "original"
+  },
+  {
+    "id": 80,
+    "textLeft": "Fruta",
+    "textRight": "Vegetal",
+    "set": "original"
+  },
+  {
+    "id": 81,
+    "textLeft": "Fr\u00e1gil",
+    "textRight": "Durable",
+    "set": "original"
+  },
+  {
+    "id": 82,
+    "textLeft": "Fuera de control",
+    "textRight": "En control",
+    "set": "original"
+  },
+  {
+    "id": 83,
+    "textLeft": "F\u00e1cil de deletrear",
+    "textRight": "Dif\u00edcil de deletrear",
+    "set": "original"
+  },
+  {
+    "id": 84,
+    "textLeft": "F\u00e1cil de hacer",
+    "textRight": "Dif\u00edcil de hacer",
+    "set": "original"
+  },
+  {
+    "id": 85,
+    "textLeft": "F\u00e1cil de matar",
+    "textRight": "Dif\u00edcil de matar",
+    "set": "original"
+  },
+  {
+    "id": 86,
+    "textLeft": "Gryffindor",
+    "textRight": "Slytherin",
+    "set": "original"
+  },
+  {
+    "id": 87,
+    "textLeft": "Guerra de las Galaxias",
+    "textRight": "Star Trek",
+    "set": "original"
+  },
+  {
+    "id": 88,
+    "textLeft": "Habilidad subestimada",
+    "textRight": "Habilidad sobrevalorada",
+    "set": "original"
+  },
+  {
+    "id": 89,
+    "textLeft": "Hecho poco conocido",
+    "textRight": "Hecho muy conocido",
+    "set": "original"
+  },
+  {
+    "id": 90,
+    "textLeft": "Heterog\u00e9neo",
+    "textRight": "Homog\u00e9neo",
+    "set": "original"
+  },
+  {
+    "id": 91,
+    "textLeft": "Hist\u00f3ricamente importante",
+    "textRight": "Hist\u00f3ricamente irrelevante",
+    "set": "original"
+  },
+  {
+    "id": 92,
+    "textLeft": "Hombre feo",
+    "textRight": "Hermoso hombre",
+    "set": "original"
+  },
+  {
+    "id": 93,
+    "textLeft": "Horizontal",
+    "textRight": "Vertical",
+    "set": "original"
+  },
+  {
+    "id": 94,
+    "textLeft": "Huele mal",
+    "textRight": "Huele bien",
+    "set": "original"
+  },
+  {
+    "id": 95,
+    "textLeft": "Ilegal",
+    "textRight": "Legal",
+    "set": "original"
+  },
+  {
+    "id": 96,
+    "textLeft": "Ilegal",
+    "textRight": "Prohibido",
+    "set": "original"
+  },
+  {
+    "id": 97,
+    "textLeft": "Imperdonable",
+    "textRight": "Perdonable",
+    "set": "original"
+  },
+  {
+    "id": 98,
+    "textLeft": "Impopular",
+    "textRight": "Popular",
+    "set": "original"
+  },
+  {
+    "id": 99,
+    "textLeft": "Inclusivo",
+    "textRight": "Exclusivo",
+    "set": "original"
+  },
+  {
+    "id": 100,
+    "textLeft": "Incoloro",
+    "textRight": "Vistoso",
+    "set": "original"
+  },
+  {
+    "id": 101,
+    "textLeft": "Incre\u00edble",
+    "textRight": "Cre\u00edble",
+    "set": "original"
+  },
+  {
+    "id": 102,
+    "textLeft": "Ineficaz",
+    "textRight": "Eficaz",
+    "set": "original"
+  },
+  {
+    "id": 103,
+    "textLeft": "Inestable",
+    "textRight": "Estable",
+    "set": "original"
+  },
+  {
+    "id": 104,
+    "textLeft": "Inflexible",
+    "textRight": "Flexible",
+    "set": "original"
+  },
+  {
+    "id": 105,
+    "textLeft": "Inofensivo",
+    "textRight": "Perjudicial",
+    "set": "original"
+  },
+  {
+    "id": 106,
+    "textLeft": "Insalubre",
+    "textRight": "Sano",
+    "set": "original"
+  },
+  {
+    "id": 107,
+    "textLeft": "Introvertido",
+    "textRight": "Extrovertido",
+    "set": "original"
+  },
+  {
+    "id": 108,
+    "textLeft": "Invenci\u00f3n in\u00fatil",
+    "textRight": "Invenci\u00f3n \u00fatil",
+    "set": "original"
+  },
+  {
+    "id": 109,
+    "textLeft": "In\u00fatil en caso de emergencia",
+    "textRight": "\u00datil en caso de emergencia",
+    "set": "original"
+  },
+  {
+    "id": 110,
+    "textLeft": "In\u00fatil",
+    "textRight": "\u00datil",
+    "set": "original"
+  },
+  {
+    "id": 111,
+    "textLeft": "Juego subestimado",
+    "textRight": "Juego sobrevalorado",
+    "set": "original"
+  },
+  {
+    "id": 112,
+    "textLeft": "La peor era para viajar en el tiempo",
+    "textRight": "La mejor \u00e9poca para viajar en el tiempo",
+    "set": "original"
+  },
+  {
+    "id": 113,
+    "textLeft": "Letra del alfabeto subestimada",
+    "textRight": "Letra del alfabeto sobrevalorada",
+    "set": "original"
+  },
+  {
+    "id": 114,
+    "textLeft": "Liberal",
+    "textRight": "Conservador",
+    "set": "original"
+  },
+  {
+    "id": 115,
+    "textLeft": "Libro subestimado",
+    "textRight": "Libro sobrevalorado",
+    "set": "original"
+  },
+  {
+    "id": 116,
+    "textLeft": "Ligeramente adictivo",
+    "textRight": "Altamente adictivo",
+    "set": "original"
+  },
+  {
+    "id": 117,
+    "textLeft": "Limitado",
+    "textRight": "Infinito",
+    "set": "original"
+  },
+  {
+    "id": 118,
+    "textLeft": "Llanura",
+    "textRight": "Lujoso",
+    "set": "original"
+  },
+  {
+    "id": 119,
+    "textLeft": "Lo peor",
+    "textRight": "El mejor",
+    "set": "original"
+  },
+  {
+    "id": 120,
+    "textLeft": "Luchador por la libertad",
+    "textRight": "Terrorista",
+    "set": "original"
+  },
+  {
+    "id": 121,
+    "textLeft": "Lugar tranquilo",
+    "textRight": "Lugar ruidoso",
+    "set": "original"
+  },
+  {
+    "id": 122,
+    "textLeft": "Mal actor",
+    "textRight": "Buen actor",
+    "set": "original"
+  },
+  {
+    "id": 123,
+    "textLeft": "Mal consejo",
+    "textRight": "Buen consejo",
+    "set": "original"
+  },
+  {
+    "id": 124,
+    "textLeft": "Mal h\u00e1bito",
+    "textRight": "Buen h\u00e1bito",
+    "set": "original"
+  },
+  {
+    "id": 125,
+    "textLeft": "Mal personaje de Disney",
+    "textRight": "Buen personaje de Disney",
+    "set": "original"
+  },
+  {
+    "id": 126,
+    "textLeft": "Mal programa de televisi\u00f3n",
+    "textRight": "Buen programa de televisi\u00f3n",
+    "set": "original"
+  },
+  {
+    "id": 127,
+    "textLeft": "Mal regalo",
+    "textRight": "Buen regalo",
+    "set": "original"
+  },
+  {
+    "id": 128,
+    "textLeft": "Mal sabor de caramelo",
+    "textRight": "Buen sabor de caramelo",
+    "set": "original"
+  },
+  {
+    "id": 129,
+    "textLeft": "Mala inversi\u00f3n",
+    "textRight": "Buena inversion",
+    "set": "original"
+  },
+  {
+    "id": 130,
+    "textLeft": "Mala m\u00fasica",
+    "textRight": "Buena m\u00fasica",
+    "set": "original"
+  },
+  {
+    "id": 131,
+    "textLeft": "Mala pel\u00edcula",
+    "textRight": "Buena pel\u00edcula",
+    "set": "original"
+  },
+  {
+    "id": 132,
+    "textLeft": "Mala persona",
+    "textRight": "Buena persona",
+    "set": "original"
+  },
+  {
+    "id": 133,
+    "textLeft": "Mala persona",
+    "textRight": "Buena persona",
+    "set": "original"
+  },
+  {
+    "id": 134,
+    "textLeft": "Mala raza de perro",
+    "textRight": "Buena raza de perro",
+    "set": "original"
+  },
+  {
+    "id": 135,
+    "textLeft": "Mala sensaci\u00f3n en la boca",
+    "textRight": "Buena sensaci\u00f3n en boca",
+    "set": "original"
+  },
+  {
+    "id": 136,
+    "textLeft": "Malo",
+    "textRight": "Bueno",
+    "set": "original"
+  },
+  {
+    "id": 137,
+    "textLeft": "Mascota normal",
+    "textRight": "Mascotas ex\u00f3ticas",
+    "set": "original"
+  },
+  {
+    "id": 138,
+    "textLeft": "Mejor caliente",
+    "textRight": "Mejor frio",
+    "set": "original"
+  },
+  {
+    "id": 139,
+    "textLeft": "Moda",
+    "textRight": "Cl\u00e1sico",
+    "set": "original"
+  },
+  {
+    "id": 140,
+    "textLeft": "Modelo a seguir",
+    "textRight": "Mala influencia",
+    "set": "original"
+  },
+  {
+    "id": 141,
+    "textLeft": "M\u00fasico subestimado",
+    "textRight": "M\u00fasico sobrevalorado",
+    "set": "original"
+  },
+  {
+    "id": 142,
+    "textLeft": "Nadie lo hace",
+    "textRight": "Todo el mundo lo hace",
+    "set": "original"
+  },
+  {
+    "id": 143,
+    "textLeft": "Naturaleza",
+    "textRight": "Educaci\u00f3n",
+    "set": "original"
+  },
+  {
+    "id": 144,
+    "textLeft": "Necesitar",
+    "textRight": "Desear",
+    "set": "original"
+  },
+  {
+    "id": 145,
+    "textLeft": "Nerd",
+    "textRight": "Atleta",
+    "set": "original"
+  },
+  {
+    "id": 146,
+    "textLeft": "No es arte",
+    "textRight": "Es Arte",
+    "set": "original"
+  },
+  {
+    "id": 147,
+    "textLeft": "No es suficiente",
+    "textRight": "Demasiado",
+    "set": "original"
+  },
+  {
+    "id": 148,
+    "textLeft": "No es un sandwich",
+    "textRight": "Un s\u00e1ndwich",
+    "set": "original"
+  },
+  {
+    "id": 149,
+    "textLeft": "No esencial",
+    "textRight": "Esencial",
+    "set": "original"
+  },
+  {
+    "id": 150,
+    "textLeft": "No fidedigno",
+    "textRight": "De confianza",
+    "set": "original"
+  },
+  {
+    "id": 151,
+    "textLeft": "No vivir\u00e1 hasta los 100",
+    "textRight": "Vivir\u00e1 hasta los 100",
+    "set": "original"
+  },
+  {
+    "id": 152,
+    "textLeft": "Nombre de perro",
+    "textRight": "Nombre de gato",
+    "set": "original"
+  },
+  {
+    "id": 153,
+    "textLeft": "Normal",
+    "textRight": "Extra\u00f1o",
+    "set": "original"
+  },
+  {
+    "id": 154,
+    "textLeft": "Nunca a tiempo",
+    "textRight": "Siempre a tiempo",
+    "set": "original"
+  },
+  {
+    "id": 155,
+    "textLeft": "Opcional",
+    "textRight": "Obligatorio",
+    "set": "original"
+  },
+  {
+    "id": 156,
+    "textLeft": "Ordinario",
+    "textRight": "Extraordinario",
+    "set": "original"
+  },
+  {
+    "id": 157,
+    "textLeft": "Oscuro",
+    "textRight": "Ligero",
+    "set": "original"
+  },
+  {
+    "id": 158,
+    "textLeft": "Pac\u00edfico",
+    "textRight": "Belicoso",
+    "set": "original"
+  },
+  {
+    "id": 159,
+    "textLeft": "Palabra asquerosa",
+    "textRight": "Hermosa palabra",
+    "set": "original"
+  },
+  {
+    "id": 160,
+    "textLeft": "Para ni\u00f1os",
+    "textRight": "Para adultos",
+    "set": "original"
+  },
+  {
+    "id": 161,
+    "textLeft": "Parece una persona",
+    "textRight": "No parece una persona",
+    "set": "original"
+  },
+  {
+    "id": 162,
+    "textLeft": "Parte del cuerpo in\u00fatil",
+    "textRight": "Parte del cuerpo \u00fatil",
+    "set": "original"
+  },
+  {
+    "id": 163,
+    "textLeft": "Pasa lentamente",
+    "textRight": "Sucede de repente",
+    "set": "original"
+  },
+  {
+    "id": 164,
+    "textLeft": "Pasado de moda",
+    "textRight": "De moda",
+    "set": "original"
+  },
+  {
+    "id": 165,
+    "textLeft": "Peligroso",
+    "textRight": "Seguro",
+    "set": "original"
+  },
+  {
+    "id": 166,
+    "textLeft": "Pel\u00edcula de acci\u00f3n",
+    "textRight": "Pel\u00edcula de aventuras",
+    "set": "original"
+  },
+  {
+    "id": 167,
+    "textLeft": "Pel\u00edcula que Godzilla arruinar\u00eda",
+    "textRight": "Pel\u00edcula que Godzilla mejorar\u00eda",
+    "set": "original"
+  },
+  {
+    "id": 168,
+    "textLeft": "Pel\u00edcula subestimada",
+    "textRight": "Pel\u00edcula sobrevalorada",
+    "set": "original"
+  },
+  {
+    "id": 169,
+    "textLeft": "Pel\u00edcula triste",
+    "textRight": "Pel\u00edcula feliz",
+    "set": "original"
+  },
+  {
+    "id": 170,
+    "textLeft": "Pensamiento profundo",
+    "textRight": "Pensamiento superficial",
+    "set": "original"
+  },
+  {
+    "id": 171,
+    "textLeft": "Peor a\u00f1o de la historia",
+    "textRight": "Mejor a\u00f1o de la historia",
+    "set": "original"
+  },
+  {
+    "id": 172,
+    "textLeft": "Peor dia del a\u00f1o",
+    "textRight": "Mejor d\u00eda del a\u00f1o",
+    "set": "original"
+  },
+  {
+    "id": 173,
+    "textLeft": "Peor tarea hogare\u00f1a",
+    "textRight": "Mejor tarea hogare\u00f1a",
+    "set": "original"
+  },
+  {
+    "id": 174,
+    "textLeft": "Peque\u00f1o",
+    "textRight": "Min\u00fasculo",
+    "set": "original"
+  },
+  {
+    "id": 175,
+    "textLeft": "Placer culpable",
+    "textRight": "Amar abiertamente",
+    "set": "original"
+  },
+  {
+    "id": 176,
+    "textLeft": "Pobremente hecho",
+    "textRight": "Bien hecho",
+    "set": "original"
+  },
+  {
+    "id": 177,
+    "textLeft": "Poco pagado",
+    "textRight": "Pagado en exceso",
+    "set": "original"
+  },
+  {
+    "id": 178,
+    "textLeft": "Poco \u00e9tico",
+    "textRight": "\u00c9tico",
+    "set": "original"
+  },
+  {
+    "id": 179,
+    "textLeft": "Popular",
+    "textRight": "Elitista",
+    "set": "original"
+  },
+  {
+    "id": 180,
+    "textLeft": "Problema local",
+    "textRight": "Problema global",
+    "set": "original"
+  },
+  {
+    "id": 181,
+    "textLeft": "Prohibido",
+    "textRight": "Alentado",
+    "set": "original"
+  },
+  {
+    "id": 182,
+    "textLeft": "Prueba de que Dios existe",
+    "textRight": "Prueba de que Dios no existe",
+    "set": "original"
+  },
+  {
+    "id": 183,
+    "textLeft": "P\u00e9rdida de tiempo",
+    "textRight": "Tiempo bien aprovechado",
+    "set": "original"
+  },
+  {
+    "id": 184,
+    "textLeft": "Raro",
+    "textRight": "Com\u00fan",
+    "set": "original"
+  },
+  {
+    "id": 185,
+    "textLeft": "Recto",
+    "textRight": "Sinuoso",
+    "set": "original"
+  },
+  {
+    "id": 186,
+    "textLeft": "Redondo",
+    "textRight": "Puntiagudo",
+    "set": "original"
+  },
+  {
+    "id": 187,
+    "textLeft": "Reemplazable",
+    "textRight": "Insustituible",
+    "set": "original"
+  },
+  {
+    "id": 188,
+    "textLeft": "Religioso",
+    "textRight": "Sacr\u00edlego",
+    "set": "original"
+  },
+  {
+    "id": 189,
+    "textLeft": "Requiere suerte",
+    "textRight": "Requiere habilidad",
+    "set": "original"
+  },
+  {
+    "id": 190,
+    "textLeft": "Sabe mal",
+    "textRight": "Sabe bien",
+    "set": "original"
+  },
+  {
+    "id": 191,
+    "textLeft": "Sabidur\u00eda convencional",
+    "textRight": "Creencia marginal",
+    "set": "original"
+  },
+  {
+    "id": 192,
+    "textLeft": "Sabio",
+    "textRight": "Inteligente",
+    "set": "original"
+  },
+  {
+    "id": 193,
+    "textLeft": "Saludo normal",
+    "textRight": "Saludo extra\u00f1o",
+    "set": "original"
+  },
+  {
+    "id": 194,
+    "textLeft": "Se siente mal",
+    "textRight": "Se siente bien",
+    "set": "original"
+  },
+  {
+    "id": 195,
+    "textLeft": "Seco",
+    "textRight": "Mojado",
+    "set": "original"
+  },
+  {
+    "id": 196,
+    "textLeft": "Secreto",
+    "textRight": "Conocimiento p\u00fablico",
+    "set": "original"
+  },
+  {
+    "id": 197,
+    "textLeft": "Sin Poder",
+    "textRight": "Poderoso",
+    "set": "original"
+  },
+  {
+    "id": 198,
+    "textLeft": "Irrelevante",
+    "textRight": "Importante",
+    "set": "original"
+  },
+  {
+    "id": 199,
+    "textLeft": "Pelado",
+    "textRight": "Peludo",
+    "set": "original"
+  },
+  {
+    "id": 200,
+    "textLeft": "Sin perfume",
+    "textRight": "Perfumado",
+    "set": "original"
+  },
+  {
+    "id": 201,
+    "textLeft": "Sin talento",
+    "textRight": "Talentoso",
+    "set": "original"
+  },
+  {
+    "id": 202,
+    "textLeft": "Sin valor",
+    "textRight": "Invaluable",
+    "set": "original"
+  },
+  {
+    "id": 203,
+    "textLeft": "Socialista",
+    "textRight": "Capitalista",
+    "set": "original"
+  },
+  {
+    "id": 204,
+    "textLeft": "Soso",
+    "textRight": "Sabroso",
+    "set": "original"
+  },
+  {
+    "id": 205,
+    "textLeft": "Suave",
+    "textRight": "Dif\u00edcil",
+    "set": "original"
+  },
+  {
+    "id": 206,
+    "textLeft": "Subestimado",
+    "textRight": "Sobrevalorado",
+    "set": "original"
+  },
+  {
+    "id": 207,
+    "textLeft": "Sucio",
+    "textRight": "Limpiar",
+    "set": "original"
+  },
+  {
+    "id": 208,
+    "textLeft": "Sustento",
+    "textRight": "Alta cocina",
+    "set": "original"
+  },
+  {
+    "id": 209,
+    "textLeft": "Talento",
+    "textRight": "Habilidad",
+    "set": "original"
+  },
+  {
+    "id": 210,
+    "textLeft": "Te beneficia",
+    "textRight": "Beneficia a todos",
+    "set": "original"
+  },
+  {
+    "id": 211,
+    "textLeft": "Tema aburrido",
+    "textRight": "Tema fascinante",
+    "set": "original"
+  },
+  {
+    "id": 212,
+    "textLeft": "Tema divertido",
+    "textRight": "Tema serio",
+    "set": "original"
+  },
+  {
+    "id": 213,
+    "textLeft": "Tema incontrovertible",
+    "textRight": "Tema controvertido",
+    "set": "original"
+  },
+  {
+    "id": 214,
+    "textLeft": "Suave",
+    "textRight": "Picante",
+    "set": "original"
+  },
+  {
+    "id": 215,
+    "textLeft": "Temporal",
+    "textRight": "Permanente",
+    "set": "original"
+  },
+  {
+    "id": 216,
+    "textLeft": "Tiene mala fama",
+    "textRight": "Tiene buena reputaci\u00f3n",
+    "set": "original"
+  },
+  {
+    "id": 217,
+    "textLeft": "Trabajo peligroso",
+    "textRight": "Trabajo seguro",
+    "set": "original"
+  },
+  {
+    "id": 218,
+    "textLeft": "Trabajo",
+    "textRight": "Carrera",
+    "set": "original"
+  },
+  {
+    "id": 219,
+    "textLeft": "Tradicional",
+    "textRight": "Radical",
+    "set": "original"
+  },
+  {
+    "id": 220,
+    "textLeft": "Tradicionalmente masculino",
+    "textRight": "Tradicionalmente femenino",
+    "set": "original"
+  },
+  {
+    "id": 221,
+    "textLeft": "Tranquilo",
+    "textRight": "Ruidoso",
+    "set": "original"
+  },
+  {
+    "id": 222,
+    "textLeft": "Una maravilla de \u00e9xito",
+    "textRight": "Icono del pop",
+    "set": "original"
+  },
+  {
+    "id": 223,
+    "textLeft": "Vicio",
+    "textRight": "Virtud",
+    "set": "original"
+  },
+  {
+    "id": 224,
+    "textLeft": "Villano",
+    "textRight": "H\u00e9roe",
+    "set": "original"
+  },
+  {
+    "id": 225,
+    "textLeft": "\u00c1spero",
+    "textRight": "Suave",
+    "set": "original"
+  },
+  {
+    "id": 226,
+    "textLeft": "\u00c9tico para comer",
+    "textRight": "Poco \u00e9tico para comer",
+    "set": "original"
+  }
+]
